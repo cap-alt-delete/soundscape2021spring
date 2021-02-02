@@ -47,9 +47,9 @@
                         user: VlatkoBlazek
                         date posted: 09/24/2015
 
-       [x] chugging along track with "all aboard" whistle
+       [x] "all aboard" whistle
 
-            (Annotations) found in one source, edit into two clips in Audacity
+            (Annotations) train on track and train whistle found in one source, edit into two clips in Audacity
 
             (Rights) "credit as by 'acclivity of freesound.org'"
                      CC Attribution Noncommercial License (https://creativecommons.org/licenses/by-nc/3.0/)
@@ -59,6 +59,18 @@
                         title: "ChugChugWooHoo.mp3"
                         user: acclivity
                         date posted: 03/01/07
+
+       [x] train on track
+
+            (Annotations) train on track for longer clips
+
+            (Rights) CC Attribution License (https://creativecommons.org/licenses/by/3.0/)
+
+            (Citations) site: freesound.org
+                        direct address: https://freesound.org/people/casemundy/sounds/130583/
+                        title: "Passing Train.wav"
+                        user: casemundy
+                        date posted: 08/06/11
 
        [x] train windows shutting
 
