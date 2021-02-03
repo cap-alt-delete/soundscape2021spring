@@ -1,11 +1,11 @@
 | Sound Assets Needed                    | Solution      | File in soundscape? |
 | -------------------------------------- | ------------- | ------------------- |
-| Desk lamp clicking on                  | Self-record   |                     |
-| Open notebook and begin working        | Self-record   |                     |
-| Train whistle                          | Source online |                     |
+| Desk lamp clicking on                  | Self-record   | Yes                 |
+| Open notebook and begin working        | Self-record   | Yes                 |
+| Train whistle                          | Source online | Yes                 |
 | Train accelerating?                    | Source online |                     |
-| Train chugging on track                | Source online |                     |
-| Announcer script lines                 | Self-record   | Yes                 |
+| Train chugging on track                | Source online | Started             |
+| Announcer script lines                 | Self-record   | Started (line 1)    | 
 | Train brakes                           | Source online |                     |
 | Rain picking up?                       | Source online |                     |
 | Thunder crash                          | Source online |                     |
