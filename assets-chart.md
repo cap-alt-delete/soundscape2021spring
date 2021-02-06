@@ -122,7 +122,7 @@
 
 - [ ] rain slowly escalating?
 
-       (Annotations)
+       (Annotations) not needed
 
        (Rights)
 
@@ -130,7 +130,7 @@
 
 - [ ] train accelerating?
 
-        (Annotations)
+        (Annotations) not needed
 
         (Rights)
 
@@ -180,7 +180,7 @@
 
       [x] sounds of train station
 
-            (Annotations) play sounds of train station in between door opening and closing
+            (Annotations) play sounds of train station in between door opening and closing - ENDED UP USING "trainambience.wav" INSTEAD FOR THIS
 
             (Rights) "Ambience, London Waterloo Train Station.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org"
                      CC Attribution License (https://creativecommons.org/licenses/by/3.0/)
