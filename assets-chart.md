@@ -3,21 +3,21 @@
 | Desk lamp clicking on                  | Self-record   | Yes                 |
 | Open notebook and begin working        | Self-record   | Yes                 |
 | Train whistle                          | Source online | Yes                 |
-| Train accelerating?                    | Source online |                     |
-| Train chugging on track                | Source online | Started             |
-| Announcer script lines                 | Self-record   | Started (line 1)    | 
-| Train brakes                           | Source online |                     |
-| Rain picking up?                       | Source online |                     |
-| Thunder crash                          | Source online |                     |
-| Rain                                   | Source online |                     |
-| Train windows shut                     | Source online |                     |
-| IRL work sounds, faster                | Self-record   |                     |
-| Notebook shuts, pen clicks off         | Self-record   |                     |
-| Light clicks off                       | Self-record   |                     |
+| Train accelerating?                    | Source online | (not needed)        |
+| Train chugging on track                | Source online | Yes                 |
+| Announcer script lines                 | Self-record   | Yes                 |
+| Train brakes                           | Source online | Yes                 |
+| Rain picking up?                       | Source online | (not needed)        |
+| Thunder crash                          | Source online | Yes                 |
+| Rain                                   | Source online | Yes                 |
+| Train windows shut                     | Source online | Yes                 |
+| IRL work sounds, faster                | Self-record   | Yes                 |
+| Notebook shuts, pen clicks off         | Self-record   | Yes                 |
+| Light clicks off                       | Self-record   | Yes                 |
 | ext: passengers running around train   | Source online |                     |
-| ext: passengers de-boarding at station | Source online |                     |
+| ext: passengers de-boarding at station | Source online | Started             |
 | ext: extra immersive working sounds    | Self-record   |                     |
-| ext: chime before announcement         | Source online |                     |
+| ext: chime before announcement         | Source online | Yes                    |
 
 
 **Prospective Assets List:**
