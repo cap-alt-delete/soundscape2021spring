@@ -80,6 +80,15 @@ Citations for "All Aboard!" Soundscape:
 
 *permission:* Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
 
+8. **"Sunny Days"**
+
+*creator:* Anno Domini Beats
+
+*location:* YouTube audio library (https://studio.youtube.com/channel/UCPPL1YIyENIDEqP4hNqYz_A/music)
+
+*permission:* "YouTube Audio Library License
+              You’re free to use this audio track in any of your videos, including videos that you monetize.
+              No attribution is required." (YouTube Audio Library License)
 
 *All sounds were edited from their original form.*
 

@@ -15,9 +15,9 @@
 | Notebook shuts, pen clicks off         | Self-record   | Yes                 |
 | Light clicks off                       | Self-record   | Yes                 |
 | ext: passengers running around train   | Source online |                     |
-| ext: passengers de-boarding at station | Source online | Started             |
-| ext: extra immersive working sounds    | Self-record   |                     |
-| ext: chime before announcement         | Source online | Yes                    |
+| ext: passengers de-boarding at station | Source online | Yes                 |
+| ext: extra immersive working sounds    | Self-record   | music started       |
+| ext: chime before announcement         | Source online | Yes                 |
 
 
 **Prospective Assets List:**
@@ -191,4 +191,16 @@
                         user: InspectorJ
                         date posted: 05/31/17
 
-- [ ] lo-fi music? fingers tapping? tea sipping? (this may add too much, or make it more immersive - worth exploring if time allows) - self-record
+- [x] lo-fi music? fingers tapping? tea sipping? (this may add too much, or make it more immersive - worth exploring if time allows) - self-record
+
+            (Annotations) lo-fi study music
+
+            (Rights) "YouTube Audio Library License
+                      You’re free to use this audio track in any of your videos, including videos that you monetize.
+                      No attribution is required.""
+
+            (Citations) site: YouTube audio library
+            direct address: https://studio.youtube.com/channel/UCPPL1YIyENIDEqP4hNqYz_A/music
+            title: "Sunny Days"
+            user: Anno Domini Beats
+            date posted: November 2020
