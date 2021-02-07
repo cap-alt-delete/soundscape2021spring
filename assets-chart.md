@@ -197,7 +197,7 @@
 
             (Rights) "YouTube Audio Library License
                       You’re free to use this audio track in any of your videos, including videos that you monetize.
-                      No attribution is required.""
+                      No attribution is required."
 
             (Citations) site: YouTube audio library
             direct address: https://studio.youtube.com/channel/UCPPL1YIyENIDEqP4hNqYz_A/music
