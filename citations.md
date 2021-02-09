@@ -90,6 +90,14 @@ Citations for "All Aboard!" Soundscape:
               You’re free to use this audio track in any of your videos, including videos that you monetize.
               No attribution is required." (YouTube Audio Library License)
 
+9. **"run_from_stairs.wav"**
+
+*creator:* fuzzpapi
+
+*location:* freesound.org (https://freesound.org/people/fuzzpapi/sounds/147345/)
+
+*permission:* Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+
 *All sounds were edited from their original form.*
 
 **Any sound not cited here was recorded by me.**

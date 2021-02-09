@@ -14,7 +14,7 @@
 | IRL work sounds, faster                | Self-record   | Yes                 |
 | Notebook shuts, pen clicks off         | Self-record   | Yes                 |
 | Light clicks off                       | Self-record   | Yes                 |
-| ext: passengers running around train   | Source online |                     |
+| ext: passengers running around train   | Source online | Yes                 |
 | ext: passengers de-boarding at station | Source online | Yes                 |
 | ext: extra immersive working sounds    | Self-record   | music started       |
 | ext: chime before announcement         | Source online | Yes                 |
@@ -142,7 +142,7 @@
 
        *(ex. anxious thoughts running around train car? - this may need to be a sourced sound if it even exists)*
 
-       (Annotations) add immersiveness with background noise during train announcements?
+       1. (Annotations) add immersiveness with background noise during train announcements?
 
        (Rights) CC Attribution License (https://creativecommons.org/licenses/by/3.0/)
 
@@ -151,6 +151,16 @@
                    title: "trainambience.wav"
                    user: Geissler
                    date posted: 03/23/09
+
+       2. (Annotations) passengers running around train car
+
+       (Rights) CC O License (https://creativecommons.org/publicdomain/zero/1.0/)
+
+                   (Citations) site: freesound.org
+                               direct address: https://freesound.org/people/fuzzpapi/sounds/147345/
+                               title: "run_from_stairs.wav"
+                               user: fuzzpapi
+                               date posted: 02/21/2012
 
 - [x] chime that plays before announcer announcing stops?
 
