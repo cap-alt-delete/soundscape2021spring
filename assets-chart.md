@@ -16,7 +16,7 @@
 | Light clicks off                       | Self-record   | Yes                 |
 | ext: passengers running around train   | Source online | Yes                 |
 | ext: passengers de-boarding at station | Source online | Yes                 |
-| ext: extra immersive working sounds    | Self-record   | music started       |
+| ext: extra immersive working sounds    | Self-record   | Yes (Music added)   |
 | ext: chime before announcement         | Source online | Yes                 |
 
 
@@ -118,23 +118,7 @@
 
 - [x] Train announcer making announcements over PA system (use Audacity effects, see forum link in other file)
 
-*Sounds I may need to source, if I can't reuse other sounds with edits to make them work -*
-
-- [ ] rain slowly escalating?
-
-       (Annotations) not needed
-
-       (Rights)
-
-       (Citations) site: - direct address: - title: - user: - date posted:
-
-- [ ] train accelerating?
-
-        (Annotations) not needed
-
-        (Rights)
-
-        (Citations) site: - direct address: - title: - user: - date posted:
+- [x] Lines of passing thoughts
 
 *EXT Sounds, if time -*
 
@@ -201,9 +185,9 @@
                         user: InspectorJ
                         date posted: 05/31/17
 
-- [x] lo-fi music? fingers tapping? tea sipping? (this may add too much, or make it more immersive - worth exploring if time allows) - self-record
+- [x] lo-fi music
 
-            (Annotations) lo-fi study music
+            (Annotations) study music for background of work session
 
             (Rights) "YouTube Audio Library License
                       You’re free to use this audio track in any of your videos, including videos that you monetize.
